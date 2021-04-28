@@ -7,7 +7,7 @@
 4. Simpsons 1/3 Rule and Trapezoidal Method
 5. Composite Simpsons 1/3 Rule and Trapezoidal Method
 
-# To Solve, this Algorithm needs
+## To Solve, this Algorithm needs
 1. X values as an array
 2. Values of the function evaluated at the X values as an array
 
